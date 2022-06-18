@@ -1,4 +1,4 @@
-<h1>Hola, mi nombre es Lucas Fernandez.</h1>
+<h1>Hola, mi nombre es Lucas Fernández.</h1>
 <h3>🎓 Soy Técnico Electrónico y estudiante de Ingeniería. <br>
 💻 Realicé un curso de programacion de 550 horas de duración donde aprendí OOP,<br>
 manejo de base de datos y Git. <br>
