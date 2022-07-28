@@ -8,7 +8,7 @@ manejo de base de datos y Git. <br>
 de equipos industriales mediante PLCs.<br>
 - Actualmente estoy en una empresa de distribución de energía electrica.<br>
 - Mi deseo es trabajar de programador y poder aprender mucho mas. Soy muy autodidacta y
-tengo mucho entusiasmo por<br> las nuevas tecnologias.<br>
+tengo entusiasmo por<br> las nuevas tecnologias.<br>
 - Otras de mis pasiones son los vehículos y finanzas!<br>
 - En mis tiempos libres me gusta realizar deporte y juntarme con mis amigos.
 
