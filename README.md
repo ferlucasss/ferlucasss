@@ -1,8 +1,6 @@
 <h1>Hola, mi nombre es Lucas Fernández.</h1>
 <h3>🎓 Soy Técnico Electrónico y estudiante de Ingeniería. <br>
-💻 Realicé un curso de programacion de 550 horas de duración donde aprendí OOP,<br>
-manejo de base de datos y Git. <br>
-🤯 Actualmente estoy aprendiendo JavaScript, Node.js y React.js.</h3>
+Actualmente estoy aprendiendo JavaScript, Node.js y React.js.
 
 - Trabajé 2 años en una empresa de Ingeniería especializada en automatizacion
 de equipos industriales mediante PLCs.<br>
